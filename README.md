@@ -33,3 +33,10 @@ pnpm task -a reset
 ```
 
 > L2跨到L1的手动claim步骤，具体何时可以执行，可以去官方桥页面[查看](https://bridge.linea.build/)，如果有可领取的，会有claim按钮
+
+## 测试环境
+
+```bash
+# goerli跨0.1eth到linea-goerli
+pnpm task -e test -a to_linea -n 0.1
+```
