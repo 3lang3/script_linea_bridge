@@ -2,7 +2,7 @@
 
 ![geetest_1](./demo.png)
 
-不管是L1-L2，还是L2-L1，请在Gas低的时候执行，ecutionFee是按照目标链当前gasPrice计算的，如果gasPrice高，会导致跨链费用高。
+不管是L1-L2，还是L2-L1，请在Gas低的时候执行，excutionFee是按照目标链当前gasPrice计算的，如果gasPrice高，会导致跨链费用高。
 
 ## 功能
 
